@@ -1,0 +1,20 @@
+{
+  "cSpell.words": [
+    "aiohttp",
+    "colorlog",
+    "decamelize",
+    "dotenv",
+    "fastapi",
+    "httpx",
+    "jsonable",
+    "levelname",
+    "nhắn",
+    "nhận",
+    "postback",
+    "pydantic",
+    "sessionmaker",
+    "sqlalchemy",
+    "starlette",
+    "uvicorn"
+  ]
+}
